@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\-\1-2\프로그래밍\실습5\Project1\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6282</DEFECTCODE>
+    <DESCRIPTION>잘못된 연산자:  부울 컨텍스트에서 상수를 할당했습니다. 대신 '=='를 사용하세요.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\-\1-2\프로그래밍\실습5\Project1\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6282</DEFECTCODE>
+    <DESCRIPTION>잘못된 연산자:  부울 컨텍스트에서 상수를 할당했습니다. 대신 '=='를 사용하세요.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\-\1-2\프로그래밍\실습5\Project1\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>29</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6282</DEFECTCODE>
+    <DESCRIPTION>잘못된 연산자:  부울 컨텍스트에서 상수를 할당했습니다. 대신 '=='를 사용하세요.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\-\1-2\프로그래밍\실습5\Project1\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6064</DEFECTCODE>
+    <DESCRIPTION>다음 변환 지정자에 해당하는, 'scanf_s'에 대한 정수 인수가 없습니다. '2'</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\-\1-2\프로그래밍\실습5\Project1\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6273</DEFECTCODE>
+    <DESCRIPTION>정수가 아닌 항목이 _Param_(2)으로 전달되었습니다. 'printf'에 대한 호출에는 정수가 필요합니다. 실제 형식: 'double'. 포인터 값이 전달되는 경우 %p을(를) 사용해야 합니다.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\-\1-2\프로그래밍\실습5\Project1\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>26</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6273</DEFECTCODE>
+    <DESCRIPTION>정수가 아닌 항목이 _Param_(2)으로 전달되었습니다. 'printf'에 대한 호출에는 정수가 필요합니다. 실제 형식: 'double'. 포인터 값이 전달되는 경우 %p을(를) 사용해야 합니다.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\-\1-2\프로그래밍\실습5\Project1\</FILEPATH>
+      <FILENAME>main.c</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6273</DEFECTCODE>
+    <DESCRIPTION>정수가 아닌 항목이 _Param_(2)으로 전달되었습니다. 'printf'에 대한 호출에는 정수가 필요합니다. 실제 형식: 'double'. 포인터 값이 전달되는 경우 %p을(를) 사용해야 합니다.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
